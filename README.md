@@ -54,7 +54,7 @@
  </p>
 
  <h3 align="left">Sub Tech Stack</h3>
- <hr size="1px">
+ <hr>
 
  <p align="left">
                  
