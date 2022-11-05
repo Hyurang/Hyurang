@@ -113,4 +113,4 @@
 
 <p align="leftr">
                 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyuragn&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&show_icons=true&theme=default)
