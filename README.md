@@ -117,5 +117,5 @@
 
  </a>                
                 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyurangs&layout=compact&theme=tokyonight)
 </p>
