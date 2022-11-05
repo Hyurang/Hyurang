@@ -52,8 +52,10 @@
   
 </p>
 
-<h5 align="center">Sub</h5>                  
-                                                                                                                   
+<h5 align="center">Sub</h5>
+
+<p align="center">
+                 
 <!--android-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
   
