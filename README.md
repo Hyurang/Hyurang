@@ -57,13 +57,13 @@
 <!--android-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
   
-</p>
+</a>
   
 <!--arduino-->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> 
   
-</p>
+</a>
   
 <!--CSS3-->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -75,7 +75,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
 
-</p>
+</a>
   
 <!--JAVA-->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -93,9 +93,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
   
-</p>
-  
-
+</a>
   
 <!--unity-->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
