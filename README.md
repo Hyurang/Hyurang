@@ -7,11 +7,10 @@
 <p align="left">
 </p>
 
-<h3 align="center">Tech Stack:</h3>
-<p align="left">
+<h3 align="center">Tech Stack</h3>
   
 <!--android--> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
+<p img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
   
 </p>
   
