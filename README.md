@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">Tech Stack</h3>
-<h5 aiign="center">Main</h3>
+<h5 aiign="center">Main</h5>
 <p align="center">
  
 <!--C-->
