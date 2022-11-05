@@ -114,8 +114,5 @@
 <p align="leftr">
                 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&show_icons=true&theme=buefy)
-
- </a>                
                 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyurang&layout=compact&theme=tokyonight)
 </p>
