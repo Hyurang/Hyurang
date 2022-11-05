@@ -5,10 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="center">Tech Stack</h3>
-<h5 align="center">Main</h5>
-
-<p align="center">
+<h3 align="left">Main Tech Stack</h3>
+<hr>
+<p align="leftr">
  
 <!--C-->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -52,9 +51,10 @@
   
 </p>
 
-<h5 align="center">Sub</h5>
+<h3 align="left">Sub Tech Stack</h3>
+<hr>
 
-<p align="center">
+<p align="left">
                  
 <!--android-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> 
