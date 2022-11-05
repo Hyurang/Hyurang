@@ -4,11 +4,8 @@
 - 🌱 I’m currently learning **1**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="center">Tech Stack</h3>
-</p>
 <h5 aiign="center">Main</h5>
 
 <p align="center">
