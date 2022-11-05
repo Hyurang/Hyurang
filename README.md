@@ -25,6 +25,30 @@
 <!--C#-->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
+ 
+</a>
+ 
+<!--Python-->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
+  
+</p>
+ 
+<!--OPEN CV-->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> 
+  
+</a>
+  
+<!--Pytorch-->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height=30"/> 
+  
+</a>
+  
+<!--tensorflow-->
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> 
   
 </p>
  
@@ -69,29 +93,7 @@
   
 </p>
   
-<!--OPEN CV-->
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> 
-  
-</a>
-  
-<!--Python-->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-  
-</a>
-  
-<!--Pytorch-->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height=30"/> 
-  
-</a>
-  
-<!--tensorflow-->
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> 
-  
-</p>
+
   
 <!--unity-->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
