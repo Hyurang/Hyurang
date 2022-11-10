@@ -1,4 +1,3 @@
- <img src="https://user-images.githubusercontent.com/86343177/201025831-665ff0e3-88ea-44e6-bccd-5a4f64566226.jpg" height="200"/> 
 <h1 align="center">𝐻𝒾 𝐼'𝓂 𝐻𝓎𝓊𝓇𝒶𝓃𝑔 (test) </h1>
 <h3 align="center">A passionate frontend developer from Korean</h3>
 
@@ -6,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="left">Main Tech Stack</h3>
+<h3 align="left">💻 Developing 💻</h3>
 
 <hr>
 
@@ -50,11 +49,6 @@
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> 
   
  </p>
-
- <h3 align="left">Sub Tech Stack</h3>
- <hr>
-
- <p align="left">
                  
  <!--android-->
  <a img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> 
