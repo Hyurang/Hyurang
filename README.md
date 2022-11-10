@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hyurang (test) </h1>
 <h3 align="center">A passionate frontend developer from Korean</h3>
 
-- 🌱 I’m currently learning **1**
+<!-- - 🌱 I’m currently learning **1** -->
 
 <h3 align="left">Connect with me:</h3>
 
