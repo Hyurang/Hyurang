@@ -1,3 +1,4 @@
+ <img src="https://user-images.githubusercontent.com/86343177/201025236-b1f83865-5a43-451d-b68a-530ff2406789.jpg" /> 
 <h1 align="center">𝐻𝒾 𝐼'𝓂 𝐻𝓎𝓊𝓇𝒶𝓃𝑔 (test) </h1>
 <h3 align="center">A passionate frontend developer from Korean</h3>
 
@@ -102,5 +103,5 @@
 <p align="left">
                 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&show_icons=true&theme=default)
-                
+            
 </p>
