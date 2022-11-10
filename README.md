@@ -1,5 +1,25 @@
-<h1 align="center">𝐻𝒾 𝐼'𝓂 𝐻𝓎𝓊𝓇𝒶𝓃𝑔 (test) </h1>
-<h3 align="center">A passionate frontend developer from Korean</h3>
+<style>
+div {
+    opacity: 0;
+    transition: all 0.5s;
+}
+</style>
+<div><h1 align="center">𝐻𝒾 𝐼'𝓂 𝐻𝓎𝓊𝓇𝒶𝓃𝑔 (test) </h1>
+<div><h3 align="center">A passionate frontend developer from Korean</h3>
+
+
+<script>
+
+    let observer = new IntersectionObserver((e)=>{
+        e.forEach((박스)=>{
+            박스.target,style.opacity = 1;
+        })
+    })
+
+    document.querySelectorAll('div')
+    observer.observe(div[0])
+
+</script>
 
 <!-- - 🌱 I’m currently learning **1** -->
 
