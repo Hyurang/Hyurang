@@ -1,4 +1,4 @@
- <img src="![BackScreen](https://user-images.githubusercontent.com/86343177/201025831-665ff0e3-88ea-44e6-bccd-5a4f64566226.jpg)" /> 
+ <img src="https://user-images.githubusercontent.com/86343177/201025831-665ff0e3-88ea-44e6-bccd-5a4f64566226.jpg" /> 
 <h1 align="center">𝐻𝒾 𝐼'𝓂 𝐻𝓎𝓊𝓇𝒶𝓃𝑔 (test) </h1>
 <h3 align="center">A passionate frontend developer from Korean</h3>
 
