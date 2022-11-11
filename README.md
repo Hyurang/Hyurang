@@ -1,15 +1,10 @@
-<div> 
-  <h1>
-    INTP 개발자, 김성빈입니다.
-  </h1>
-  <h2> 
-    About Me 
-  </h2>
-</div>
+# INTP 개발자, 김성빈입니다.
+
+## About Me
+-안녕하세요 CK23학번 김성빈입니다.
+-저는 새로운것을 알아가
 
 <hr>
-
-<h2 align="left">Intro </h2>
 
 <h3 align="left">Connect with me:</h3>
 
