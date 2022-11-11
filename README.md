@@ -1,7 +1,8 @@
-<h1 align="center">𝐻𝒾 𝐼'𝓂 𝐻𝓎𝓊𝓇𝒶𝓃𝑔 (test) </h1>
-<h3 align="center">A passionate frontend developer from Korean</h3>
+<h1 div> INTP 개발자, 김성빈입니다.</div>
+<h2> About Me </h2>
+<hr>
 
-<!-- - 🌱 I’m currently learning **1** -->
+<h2 align="left">Intro </h2>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -15,7 +16,6 @@
             
 </p>
 
-<p align="right">
  
  <!--C-->
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -44,8 +44,7 @@
   
  <!--Pytorch-->
  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height=25"/> 
-  
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/> 
  </a>
   
  <!--tensorflow-->
@@ -96,4 +95,4 @@
  <!--unrealengine-->
  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="25" height="25"/> 
-</p>
+</a>
