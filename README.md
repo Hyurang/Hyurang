@@ -24,6 +24,8 @@
  <!--C#-->
  <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
  
+ <br>
+ 
  <!--Python-->
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  
@@ -35,12 +37,8 @@
   
  <!--tensorflow-->
  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<br>                
- <!--android-->
- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-  
- <!--arduino-->
- <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
+ <br> 
 
  <!--HTML-->
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -59,6 +57,14 @@
  
  <br>
  
+ <!--android-->
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  
+ <!--arduino-->
+ <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
+ <br>
+ 
  <!--unity-->
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   
@@ -66,4 +72,9 @@
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 </div>
 
-[![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/) 
+<!-- 
+[![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/)  -->
+## Activities
+- 2020 한국코드페어 헤커톤 금상수상
+- 2021 한국코드페어 헤커톤 동상수상
+- 2022 청강대 HI 게임잼 참여
