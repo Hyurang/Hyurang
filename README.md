@@ -1,5 +1,12 @@
-<h1 div> INTP 개발자, 김성빈입니다.</div>
-<h2> About Me </h2>
+<div> 
+  <h1>
+    INTP 개발자, 김성빈입니다.
+  </h1>
+  <h2> 
+    About Me 
+  </h2>
+</div>
+
 <hr>
 
 <h2 align="left">Intro </h2>
