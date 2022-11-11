@@ -75,6 +75,6 @@
 <!-- 
 [![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/)  -->
 ## Activities
-- 2020 한국코드페어 헤커톤 금상수상
-- 2021 한국코드페어 헤커톤 동상수상
-- 2022 청강대 HI 게임잼 참여
+- 2020 Korea Coding Hackathon Gold Award
+- 2021 Korea Code Fair Hackathon Bronze Award
+- Participation in 2022 CheongkangHI Game Jam
