@@ -1,26 +1,24 @@
 # INTP 개발자, 김성빈입니다.
 
-## About Me
+### About Me
 - 안녕하세요 CK23학번 김성빈입니다.
 - 저는 새로운 것을 배우며 문제를 풀어가는 것을 즐깁니다.
 - 협업의 중요성때문에 Clean코드를 지향하고 있습니다.
 - 지속적인 커밋활동을 통해 매일매일 성장해 나갑니다.
 
-## Connect: 
+### Connect Me
 - Email | dvhyurangi@gmail.com
+- Discord | 휴랑#1900
+- Twitter | non
 
 
-<h3 align="left">💻 Developing 💻</h3>
-
-<hr>
-
-<p align="left">
-                
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&show_icons=true&theme=default)
-            
-</p>
-
+## 💻 Developing 💻
  
+[![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/) 
+<!-- [![Hyurang's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyurang&theme=dark&layout=compact)](https://github.com/Hyurang/) -->
+ 
+## 📝 Sturdy 📝
+
  <!--C-->
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> 
