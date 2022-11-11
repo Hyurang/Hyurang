@@ -14,7 +14,6 @@
 
 ## 💻 Developing 💻
  
-[![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/) 
 <div align="left">
  <!--C-->
  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -36,7 +35,7 @@
   
  <!--tensorflow-->
  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-                 
+<br>                
  <!--android-->
  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
   
@@ -50,17 +49,21 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   
  <!--JAVA-->
- <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
+ <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white">
   
  <!--JAVASCRIPT-->
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   
  <!--NODE JS-->
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  
+ 
+ <br>
+ 
  <!--unity-->
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   
  <!--unrealengine-->
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 </div>
+
+[![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/) 
