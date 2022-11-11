@@ -12,7 +12,7 @@
 - Twitter | non
 
 
-## 💻 Developing 💻
+## Skill 
  
 <div align="left">
  <!--C-->
