@@ -12,12 +12,14 @@
 - Twitter | non
 
 
-## <img src="https://user-images.githubusercontent.com/86343177/202158194-a97ffcc9-de85-460d-9ce0-8218f9aa1d8a.png" wodth="30" height="30"> Skill 
+## 🏫 Skill 
  
+ ### Main
 <div align="left">
+
  <!--C-->
  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  
+
  <!--C++-->
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   
