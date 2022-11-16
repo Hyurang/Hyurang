@@ -1,18 +1,18 @@
-# INTP 개발자, 김성빈입니다.
+### INTP 개발자, 김성빈입니다.
 
-### About Me
+## <img src="https://user-images.githubusercontent.com/86343177/202157145-1c75ad25-eb38-43d8-886c-676b9ce7fc77.png" width="30" height="30"> About Me
 - 안녕하세요 CK23학번 김성빈입니다.
 - 저는 새로운 것을 배우며 문제를 풀어가는 것을 즐깁니다.
 - 협업의 중요성때문에 Clean코드를 지향하고 있습니다.
 - 지속적인 커밋활동을 통해 매일매일 성장해 나갑니다.
 
-### Connect Me
+## <img src="https://user-images.githubusercontent.com/86343177/202157824-aae441f5-06b3-4535-b33a-068207d00e2a.png" width="30" height="30"> Connect Me
 - Email | dvhyurangi@gmail.com
 - Discord | 휴랑#1900
 - Twitter | non
 
 
-## Skill 
+## <img src="https://user-images.githubusercontent.com/86343177/202158194-a97ffcc9-de85-460d-9ce0-8218f9aa1d8a.png" wodth="30" height="30"> Skill 
  
 <div align="left">
  <!--C-->
