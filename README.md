@@ -31,6 +31,19 @@
  <!--Python-->
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  
+  <br>
+ 
+ <!--unity-->
+ <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+  
+ <!--unrealengine-->
+ <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
+ 
+</div>
+ 
+ ### Sub
+ 
+<div align="left"> 
  <!--OPEN CV-->
  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
   
@@ -65,13 +78,6 @@
  <!--arduino-->
  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
  
- <br>
- 
- <!--unity-->
- <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-  
- <!--unrealengine-->
- <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 </div>
 
 <!-- 
