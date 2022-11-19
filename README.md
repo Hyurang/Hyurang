@@ -1,4 +1,4 @@
-### INTP 개발자, 김성빈입니다. (TEST)
+### INTP 개발자, 김성빈입니다.
 
 ## <img src="https://user-images.githubusercontent.com/86343177/202157145-1c75ad25-eb38-43d8-886c-676b9ce7fc77.png" width="30" height="30"> About Me
 - 안녕하세요 CK23학번 김성빈입니다.
