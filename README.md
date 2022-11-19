@@ -8,7 +8,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/86343177/202157824-aae441f5-06b3-4535-b33a-068207d00e2a.png" width="30" height="30"> Connect Me
 - Email | dvhyurangi@gmail.com
-- Discord | 휴랑#1900
 - Twitter | non
 
 
