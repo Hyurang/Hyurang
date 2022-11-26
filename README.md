@@ -1,14 +1,14 @@
 ### INTP 개발자, 김성빈입니다.
 
-## <img src="https://user-images.githubusercontent.com/86343177/202157145-1c75ad25-eb38-43d8-886c-676b9ce7fc77.png" width="30" height="30"> About Me
+## 💁‍♀️ About Me
 - 안녕하세요 CK23학번 김성빈입니다.
 - 저는 새로운 것을 배우며 문제를 풀어가는 것을 즐깁니다.
 - 협업의 중요성때문에 Clean코드를 지향하고 있습니다.
 
-## <img src="https://user-images.githubusercontent.com/86343177/202157824-aae441f5-06b3-4535-b33a-068207d00e2a.png" width="30" height="30"> Connect Me
-- Email | dvhyurangi@gmail.com
+## 🤙 Connect Me
+- Email | dvhyurang@gmail.com
 
-## 🏫 Skill 
+## 🖥 Skill 
  
  ### Main
 <div align="left">
@@ -78,7 +78,7 @@
 
 <!-- 
 [![Hyurnag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyurang&theme=dark&count_private=true&show_icons=true)](https://github.com/Hyurang/)  -->
-## Activities
+## 💻 Activities
 - 2020 Korea Coding Hackathon Gold Award
 - 2021 Korea Code Fair Hackathon Bronze Award
 - Participation in 2022 CheongkangHI Game Jam
