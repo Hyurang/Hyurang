@@ -1,14 +1,14 @@
 ### INTP 개발자, 김성빈입니다.
 
-## 💁‍♀️ About Me
+## About Me
 - 안녕하세요 CK23학번 김성빈입니다.
 - 저는 새로운 것을 배우며 문제를 풀어가는 것을 즐깁니다.
 - 협업의 중요성때문에 Clean코드를 지향하고 있습니다.
 
-## 🤙 Connect Me
-- Email | dvhyurang@gmail.com
+## Connect Me
+- Email | dvhyurangi@gmail.com
 
-## 🖥 Skill 
+## Skill 
  
  ### Main
 <div align="left">
